@@ -1,0 +1,68 @@
+('C:\\Users\\Dennis '
+ 'Anasco\\Desktop\\Denns\\my_project\\AnascoD_Act\\StudentExamPrediction_Offline_BuildKit\\build\\StudentExamPrediction\\StudentExamPrediction.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\Dennis '
+   'Anasco\\Desktop\\Denns\\my_project\\AnascoD_Act\\StudentExamPrediction_Offline_BuildKit\\build\\StudentExamPrediction\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Dennis '
+   'Anasco\\Desktop\\Denns\\my_project\\AnascoD_Act\\StudentExamPrediction_Offline_BuildKit\\build\\StudentExamPrediction\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Dennis '
+   'Anasco\\Desktop\\Denns\\my_project\\AnascoD_Act\\StudentExamPrediction_Offline_BuildKit\\build\\StudentExamPrediction\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Dennis '
+   'Anasco\\Desktop\\Denns\\my_project\\AnascoD_Act\\StudentExamPrediction_Offline_BuildKit\\build\\StudentExamPrediction\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Dennis '
+   'Anasco\\Desktop\\Denns\\my_project\\AnascoD_Act\\StudentExamPrediction_Offline_BuildKit\\build\\StudentExamPrediction\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Dennis '
+   'Anasco\\Desktop\\Denns\\my_project\\AnascoD_Act\\StudentExamPrediction_Offline_BuildKit\\build\\StudentExamPrediction\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Dennis '
+   'Anasco\\Desktop\\Denns\\my_project\\AnascoD_Act\\StudentExamPrediction_Offline_BuildKit\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Dennis '
+   'Anasco\\Desktop\\Denns\\my_project\\AnascoD_Act\\StudentExamPrediction_Offline_BuildKit\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Dennis '
+   'Anasco\\Desktop\\Denns\\my_project\\AnascoD_Act\\StudentExamPrediction_Offline_BuildKit\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Dennis '
+   'Anasco\\Desktop\\Denns\\my_project\\AnascoD_Act\\StudentExamPrediction_Offline_BuildKit\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\Dennis '
+   'Anasco\\Desktop\\Denns\\my_project\\AnascoD_Act\\StudentExamPrediction_Offline_BuildKit\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('app',
+   'C:\\Users\\Dennis '
+   'Anasco\\Desktop\\Denns\\my_project\\AnascoD_Act\\StudentExamPrediction_Offline_BuildKit\\app.py',
+   'PYSOURCE')],
+ 'python314.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
